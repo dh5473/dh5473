@@ -34,5 +34,5 @@
   <img src="https://img.shields.io/badge/jira-%230052CC.svg?&style=for-the-badge&logo=jira&logoColor=white" />
 </p>
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=dh5473)](https://solved.ac/dh5473)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dh5473)](https://solved.ac/dh5473)
 
