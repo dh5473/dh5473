@@ -8,11 +8,11 @@
 
 ## Experience
 
-**SW Maestro 15th** (2024.04~2024.11)
+**SW Maestro 15th** (2024.04~2024.12)
 > **67개 팀 중 상위 3팀** · 개인 우수자 15인 선정(200명 중) · 미국 글로벌 SW 역량 강화 교육
 
 **deep daiv.** (2022.12~2024.02)
-> AI 매거진 제작/크라우드펀딩 · AI 사이드 프로젝트 · 스터디 운영
+> AI 매거진 제작/크라우드펀딩 · AI 사이드 프로젝트 · 세미나 기획 · 스터디 운영
 > 
 > [`Instagram`](https://www.instagram.com/deep.daiv/) · [`Funding`](https://tumblbug.com/deepdaiv)
 
